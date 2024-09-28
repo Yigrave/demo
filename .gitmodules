@@ -1,0 +1,6 @@
+[submodule "blog/themes/paper"]
+	path = blog/themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "blog/themes/mini"]
+	path = blog/themes/mini
+	url = https://github.com/nodejh/hugo-theme-mini.git
